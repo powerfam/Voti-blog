@@ -126,7 +126,7 @@ section: section1
 ## 너에게 전하고 싶은 것
 
 ![이미지 설명](https://raw.githubusercontent.com/powerfam/voti-backup/main/public/images/1765551232885-image.png)
-*여기에 사진 캡션 작성 @voti*
+*@voti*
 
 
 딸아, 세상은 계속해서 너에게 온갖 기준점을 제시할 거야.
